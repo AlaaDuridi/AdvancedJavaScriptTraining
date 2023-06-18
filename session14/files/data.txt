@@ -1,0 +1,3 @@
+Hello World from inside the file 
+Hello from the append.js file code
+Hello from the append.js file code

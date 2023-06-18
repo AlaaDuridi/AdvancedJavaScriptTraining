@@ -1,0 +1,16 @@
+Session 10 Content 
+
+ES6 Features : -> Continued 
+- default parameters :- 
+you define a function which receive number of parameters, 
+in case one of the parameters is not sended, you can consider it with some default value 
+
+
+- enhanced object literals 
+
+- spread operator 
+
+- destructing -->Arrays[]
+             |   
+              -->Objects {} 
+
